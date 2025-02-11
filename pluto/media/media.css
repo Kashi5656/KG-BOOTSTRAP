@@ -1,0 +1,199 @@
+@media (max-width:1200px)
+{
+    /* slider-1 starts */
+
+    .slider-1
+    {
+        display: none;
+    }
+
+    /* slider-1 ends */
+
+    /* slider-2 starts */
+
+    .slider-2 
+    {
+        display: none;
+    }
+
+    /* slider-2 ends */
+
+    /* navbar starts */
+
+    .profileopt
+    {
+        display: none;
+    }
+
+    /* navbar ends */
+
+    /* dashboard starts */
+
+    .dashboard .options .r-1
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .dashboard .options .rc-1
+    {
+        width: 22.6%;
+        margin-bottom: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: 0%;
+    }
+    .dashboard .options .rc-2
+    {
+        margin-bottom: 40px;
+        width: 22.6%;
+    }
+
+    /* dashboard ends */
+}
+
+@media (max-width:992px)
+{
+
+    /* slider-1 starts */
+
+    .slider-1
+    {
+        display: none;
+    }
+
+    /* slider-1 ends */
+
+    /* slider-2 starts */
+
+    .slider-2 
+    {
+        display: none;
+    }
+
+    /* slider-2 ends */
+
+    /* navbar starts */
+
+    .profileopt
+    {
+        display: none;
+    }
+
+    /* navbar ends */
+
+    /* dashboard starts */
+
+    .dashboard .options .r-1
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+    .dashboard .options .rc-1
+    {
+        width: 46%;
+        margin-bottom: 40px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .dashboard .options .rc-2
+    {
+        margin-bottom: 40px;
+        width: 46%;
+    }
+
+    /* dashboard ends */
+
+    /* fourpages starts */
+
+    
+
+    /* fourpages ends */
+}
+
+@media (max-width:767px)
+{
+
+    /* slider-1 starts */
+
+    .slider-1
+    {
+        display: none;
+    }
+
+    /* slider-1 ends */
+
+    /* slider-2 starts */
+
+    .slider-2 
+    {
+        display: none;
+    }
+
+    /* slider-2 ends */
+
+    /* navbar starts */
+
+    .profileopt
+    {
+        display: none;
+    }
+
+    /* navbar ends */
+
+    /* dashboard starts */
+
+    .dashboard .options .r-1
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+    .dashboard .options .rc-1
+    {
+        width: 90%;
+        margin: 0% auto 40px auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .dashboard .options .rc-2
+    {
+        margin: 0% auto 40px auto;
+        width: 90%;
+    }
+
+    /* dashboard ends */
+
+    /* fourpages starts */
+
+    .fourpages .fourrow1 .fourcol1
+    {
+        width: 90%;
+        margin: 20px auto;
+    }
+    .fourpages .fourrow1 .fourcol2
+    {
+        width: 90%;
+        margin: 20px auto;
+    }
+    .fourpages .fourrow2 .fourcol3
+    {
+        width: 90%;
+        margin: 20px auto;
+    }
+    .fourpages .fourrow2 .fourcol4
+    {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    /* fourpages ends */
+
+    
+}
